@@ -1,0 +1,4 @@
+SITE_NAME=SabziCart
+SITE_URL=http://localhost
+PORT=8080
+DEBUG=true
